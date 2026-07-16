@@ -10,8 +10,8 @@ That instinct — find the friction, then design it away — pulled me into
 responsive, accessible interfaces. I bring production debugging instincts most 
 junior developers haven't had to build yet, backed by an MCA in Computer Science.
 
-🔭 Currently building: * Portfolio *  
-🌱 Learning: * Redux, Rest API's *  
+🔭 Currently building: *Portfolio*  
+🌱 Learning: *Redux, Rest API's*  
 💼 Open to: Front-End Developer & hybrid support-to-dev roles, open to relocation  
 📫 Reach me: onkarchavan830@gmail.com  
 🔗 LinkedIn: linkedin.com/in/onkarchavan05
