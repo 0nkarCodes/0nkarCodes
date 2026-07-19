@@ -3,7 +3,7 @@
 I'm a Front-End Developer who started in technical support — and used that seat 
 to learn exactly what breaks in production. Over 2.6 years at Tech Mahindra, I 
 shipped 5 JavaScript automation scripts that removed real manual work from a 
-live workflow, not a tutorial project.
+live workflow, not a tutorial project. 
 
 That instinct — find the friction, then design it away — pulled me into 
 **React.js**, **JavaScript (ES6+)**, and **Tailwind CSS**, where I now build 
