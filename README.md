@@ -14,5 +14,5 @@ junior developers haven't had to build yet, backed by an MCA in Computer Science
 🌱 Learning: *Redux, Rest API's*  
 💼 Open to: Front-End Developer & hybrid support-to-dev roles, open to relocation  
 📫 Reach me: onkarchavan830@gmail.com  
-🔗 LinkedIn: linkedin.com/in/onkarchavan05
+🔗 LinkedIn: linkedin.com/in/onkarchavan05 
 🌐 Portfolio: https://portfolio-main-pi-seven.vercel.app/
