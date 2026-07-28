@@ -6,9 +6,11 @@ Front-End Developer who started in technical support — and used that seat to l
 Over 2.6 years at Tech Mahindra, I shipped 5 JavaScript automation scripts that removed real manual work from a live workflow — not a tutorial project. That instinct — find the friction, then design it away — pulled me into React.js, JavaScript (ES6+), and Tailwind CSS, where I now build responsive, accessible interfaces. I bring production debugging instincts most junior developers haven't had to build yet, backed by an MCA in Computer Science.
 
 🔭 What I'm working on
+
 Actively building and shipping front-end projects while applying for Front-End Developer roles. Deploying my project set now — live links coming soon below.
 
 🛠️ Tech Stack
+
 Frontend: React.js · JavaScript (ES6+) · Redux.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap · jQuery Backend & Tools: Node.js · Express.js · MongoDB · MySQL · PostgreSQL · Git · REST APIs
 
 🚀 Featured Projects
