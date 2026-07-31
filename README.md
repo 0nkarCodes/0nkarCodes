@@ -15,8 +15,11 @@ Frontend: React.js · JavaScript (ES6+) · Redux.js · HTML5 · CSS3 · Tailwind
 
 🚀 Featured Projects
 **Interactive Chess Tracker** — React.js chess.js CSS3 Integrated chess.js for legal move validation and game-state logic; built the UI layer for board state, move history, and opening sequences in sync with it.
+
 **Community Management Dashboard** — React.js Recharts Tailwind CSS Admin dashboard visualizing community engagement metrics with Recharts, built from reusable, prop-driven components in a responsive grid layout.
+
 **Advanced Fitness & Macro Tracker** — React.js Context API Tailwind CSS Macro-tracking app persisting daily goals and intake to a backend database with local caching for instant UI updates; Context API shares state across nested components.
+
 **Portfolio Website** — React.js Tailwind CSS Git Minimalist, high-performance developer portfolio with responsive layout and polished micro-interactions.
 
 🔭 Currently building: *Portfolio*  
