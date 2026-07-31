@@ -14,6 +14,7 @@ Actively building and shipping front-end projects while applying for Front-End D
 Frontend: React.js · JavaScript (ES6+) · Redux.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap · jQuery Backend & Tools: Node.js · Express.js · MongoDB · MySQL · PostgreSQL · Git · REST APIs
 
 🚀 Featured Projects
+
 **Interactive Chess Tracker** — React.js chess.js CSS3 Integrated chess.js for legal move validation and game-state logic; built the UI layer for board state, move history, and opening sequences in sync with it.
 
 **Community Management Dashboard** — React.js Recharts Tailwind CSS Admin dashboard visualizing community engagement metrics with Recharts, built from reusable, prop-driven components in a responsive grid layout.
